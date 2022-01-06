@@ -146,7 +146,81 @@ h4{
 {
     width:130%;
 }
+.fifth-s
+{
+    display:flex;
+}
+h3
+{
+    text-align: center;
+}
+.fifth-s h1
+{
+  font:40px;
+}
+.one
+{
+    width:20%;
+    padding:20px;
+    text-align: center;
+    font-weight: bolder;
+    color:rgb(0, 0, 0);
+    font:20px;
+    margin-left:5%;
+    margin-right:5%;
 
-
-
+}
+.one img{
+    width:150%;
+}
+.two
+{
+    width:20%;
+    padding-top:10px;
+    margin-left:2%;
+}
+.two img
+{
+    width:150%;
+}
+.three h3
+{
+  text-align: left;
+}
+.three{
+    padding-right: 20px;
+    margin-right:70px;
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-right: 3%;
+    margin-left: 10%;
+    border-radius: 40px;
+    padding-left:5%;
+}
+.four h3
+{
+  text-align: left;
+}
+.four{
+    padding-left:10px;
+    padding-right: 30px;
+    margin-left:30px;
+    margin-right:5%;
+    box-shadow: 10px 10px 30px gray;
+    width: 40%;
+    margin-right: 9%;
+    margin-left: 5%;
+    border-radius: 40px;
+    padding-left:5%;
+}
+footer
+{
+    text-align: center;
+    background-color:rgb(2, 2, 29);
+    color: oldlace;
+    padding-bottom:10px;
+    padding-top: 10px;
+    border-radius:5px;
+    margin-top:50px;
+}
 
